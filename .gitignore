@@ -1,0 +1,37 @@
+# Compiled class file
+*.class
+
+# Configurate Intellij files
+*.iml
+
+ # for eclipse
+*.classpath
+*.project
+
+# Propertie
+*.properties
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Folders
+target
+.idea
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
